@@ -1,5 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pâmela Raiane
-=====================================================================================================================================
+Olá, Meu nome é Pâmela Raiane
+==============================
+
+
+
+Estou fazendo a transição de carreira de QA para DEV Front-end, abaixo segue as skills que estou focada no momento:
 
 ### Skills
 
@@ -8,3 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/Pâmela Raiane#4703" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/https:/p%C3%A2mela-raiane" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
