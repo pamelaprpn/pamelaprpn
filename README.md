@@ -14,7 +14,7 @@ Web developer Júnior
 
 
 
-Estou fazendo a transição de carreira de QA para DEV Front-end, abaixo segue as skills que estou focada no momento:
+Estou fazendo a transição de carreira de QA para, abaixo segue as skills que estou focada no momento:
 
 ### Skills
 
