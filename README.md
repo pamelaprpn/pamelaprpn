@@ -11,6 +11,7 @@ Web developer Júnior
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pamelaprpn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelaprpn&layout=compact&langs-count=16&theme=dracula"/> 
 </div>
 
 ### Como me encontrar:
