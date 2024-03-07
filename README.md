@@ -5,18 +5,16 @@ Olá, Meu nome é Pâmela Raiane
 Web developer Júnior
 --------------------
 
-* ✉️  You can contact me at [pamelaprpn@gmail.com](mailto:pamelaprpn@gmail.com)
-* 🚀  I'm currently working on [Pokedex](https://github.com/pamelaprpn/Pokedex)
 
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pamelaprpn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelaprpn&layout=compact&langs-count=16&theme=dracula"/> 
 </div>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamelaprpn&hide_progress=true"/>
+</div>
 
-### Como me encontrar:
-
-<p align="left"> <a href="https://discord.com/users/Pâmela Raiane#4703" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pâmela-raiane/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
 
