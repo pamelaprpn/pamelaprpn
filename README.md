@@ -72,27 +72,15 @@ Essa experiência influencia diretamente minha forma de desenvolver software, bu
 
 ## 📚 O que estou estudando
 
-Atualmente estou aprofundando meus conhecimentos em **desenvolvimento Full Stack**, com foco em:
+Atualmente estou aprofundando meus conhecimentos em **desenvolvimento Full Stack**, com foco em **Java, Spring Boot, React e TypeScript**.
 
-- Java
-- Spring Boot
-- APIs REST
-- Persistência de dados e SQL
-- Arquitetura de aplicações
-- React e TypeScript
-- Integração entre Back-End e Front-End
-- Testes automatizados
-- IA aplicada ao desenvolvimento de software
+### 🚧 Projeto em desenvolvimento — API Pessoas
+
+No momento, estou desenvolvendo um projeto Full Stack para colocar em prática os conhecimentos de **Back-End e Front-End**, construindo uma **API REST com Java e Spring Boot** e uma interface em **React + TypeScript** para consumir essa API.
+
+A aplicação será estruturada em camadas, separando as responsabilidades entre **Controller, Service e Repository**.
 
 ---
-
-## 📂 Projeto em destaque
-
-### 👥 API Pessoas
-
-Projeto Full Stack desenvolvido com **Java, Spring Boot, React e TypeScript**, com o objetivo de explorar a construção e o consumo de uma **API REST**.
-
-A aplicação será estruturada em camadas, separando as responsabilidades entre **Controller, Service e Repository**, com o Front-End responsável pelo consumo e apresentação dos dados.
 
 ### 🏗️ Arquitetura
 
