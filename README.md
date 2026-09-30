@@ -110,6 +110,7 @@ A aplicação será estruturada em camadas, separando as responsabilidades entre
                   │
                   ▼
                 Banco
+```
 
 🔗 [Ver projeto](https://github.com/pamelaprpn/api-pessoas)
 
