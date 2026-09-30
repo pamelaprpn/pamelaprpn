@@ -90,18 +90,26 @@ Atualmente estou aprofundando meus conhecimentos em **desenvolvimento Full Stack
 
 ### 👥 API Pessoas
 
-API REST desenvolvida com **Java e Spring Boot**, como parte da minha jornada de aprofundamento em desenvolvimento Back-End.
+Projeto Full Stack desenvolvido com **Java, Spring Boot, React e TypeScript**, com o objetivo de explorar a construção e o consumo de uma **API REST**.
 
-O projeto explora conceitos importantes do desenvolvimento de APIs, como:
+A aplicação será estruturada em camadas, separando as responsabilidades entre **Controller, Service e Repository**, com o Front-End responsável pelo consumo e apresentação dos dados.
 
-- Java
-- Spring Boot
-- APIs REST
-- Estruturação de aplicações Back-End
-- CRUD
-- Integração com banco de dados
-- Persistência de dados
-- Boas práticas de desenvolvimento
+### 🏗️ Arquitetura
+
+```text
+                 HTTP
+                  │
+                  ▼
+             Controller
+                  │
+                  ▼
+               Service
+                  │
+                  ▼
+             Repository
+                  │
+                  ▼
+                Banco
 
 🔗 [Ver projeto](https://github.com/pamelaprpn/api-pessoas)
 
