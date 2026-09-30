@@ -1,6 +1,6 @@
 # Olá! Eu sou a Pâmela Raiane 👋
 
-### Software Engineer | Full Stack Java & React
+### Software Engineer | Full Stack 
 
 Sou Engenheira de Software com experiência em desenvolvimento **Front-End** e atualmente aprofundando minha atuação como **Full Stack**, com foco em **Java, Spring Boot, React e TypeScript**.
 
