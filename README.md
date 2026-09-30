@@ -41,38 +41,30 @@ Minha experiência anterior em **Quality Engineering** também contribui para um
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-### 🛠️ Engenharia & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Sonar](https://img.shields.io/badge/Sonar-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-
 ---
 
 ## 🧪 Qualidade como diferencial
 
-Antes de direcionar minha atuação para desenvolvimento, trabalhei por mais de **5 anos com Quality Engineering**, desenvolvendo experiência em:
+Minha experiência de mais de **5 anos em Quality Engineering** é um diferencial que levo diretamente para minhas entregas como Software Engineer.
 
-- Automação de testes E2E
-- Testes de APIs
-- Cypress e Robot Framework
-- SQL
-- Análise de logs
-- Investigação de bugs
-- Code Review
-- Qualidade de software
-- Scrum e Kanban
+Essa experiência me permite olhar para o desenvolvimento além da implementação da funcionalidade, considerando desde o início aspectos como:
 
-Essa experiência influencia diretamente minha forma de desenvolver software, buscando criar aplicações **testáveis, confiáveis e sustentáveis**, desde a implementação até a integração e validação das funcionalidades.
+- **Testabilidade e cobertura de cenários**
+- **Qualidade e confiabilidade do código**
+- **Identificação antecipada de riscos e possíveis falhas**
+- **Testes de APIs e integrações**
+- **Investigação e análise de bugs**
+- **Análise de logs**
+- **Validação de regras de negócio**
+- **Manutenibilidade e sustentabilidade das soluções**
+
+Busco aplicar essa visão em cada entrega, desenvolvendo soluções que não sejam apenas funcionais, mas também **testáveis, confiáveis, sustentáveis e preparadas para evolução**.
 
 ---
 
 ## 📚 O que estou estudando
 
-Atualmente estou aprofundando meus conhecimentos em **desenvolvimento Full Stack**, com foco em **Java, Spring Boot, React e TypeScript**.
+Atualmente estou aprofundando meus conhecimentos em **desenvolvimento Full Stack**, com foco em **Java, Spring Boot**.
 
 ### 🚧 Projeto em desenvolvimento — API Pessoas
 
