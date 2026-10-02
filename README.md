@@ -43,24 +43,6 @@ Minha experiência anterior em **Quality Engineering** também contribui para um
 
 ---
 
-## 🧪 Qualidade como diferencial
-
-Minha experiência de mais de **5 anos em Quality Engineering** é um diferencial que levo diretamente para minhas entregas como Software Engineer.
-
-Essa experiência me permite olhar para o desenvolvimento além da implementação da funcionalidade, considerando desde o início aspectos como:
-
-- **Testabilidade e cobertura de cenários**
-- **Qualidade e confiabilidade do código**
-- **Identificação antecipada de riscos e possíveis falhas**
-- **Testes de APIs e integrações**
-- **Investigação e análise de bugs**
-- **Análise de logs**
-- **Validação de regras de negócio**
-- **Manutenibilidade e sustentabilidade das soluções**
-
-Busco aplicar essa visão em cada entrega, desenvolvendo soluções que não sejam apenas funcionais, mas também **testáveis, confiáveis, sustentáveis e preparadas para evolução**.
-
----
 
 ## 📚 O que estou estudando
 
