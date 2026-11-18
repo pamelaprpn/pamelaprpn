@@ -46,38 +46,41 @@ Minha experiência anterior em **Quality Engineering** também contribui para um
 
 ## 📚 O que estou estudando
 
-Atualmente estou aprofundando meus conhecimentos em **desenvolvimento Full Stack**, com foco em **Java, Spring Boot**.
+Atualmente estou aprofundando meus conhecimentos em **desenvolvimento Full Stack**, com foco em **Java, Spring Boot, APIs REST, Spring Data JPA e testes automatizados com JUnit 5**, durante o Bootcamp Java Full Stack ElasTech.
 
-### 🚧 Projeto em desenvolvimento — API Pessoas
+### 🚧 Projeto em desenvolvimento — Sistema de Empréstimo de Equipamentos
 
-No momento, estou desenvolvendo um projeto Full Stack para colocar em prática os conhecimentos de **Back-End e Front-End**, construindo uma **API REST com Java e Spring Boot** e uma interface em **React + TypeScript** para consumir essa API.
+Estou desenvolvendo uma **API REST com Java e Spring Boot** para gerenciar equipamentos corporativos, colaboradores e empréstimos.
 
-A aplicação será estruturada em camadas, separando as responsabilidades entre **Controller, Service e Repository**.
+O projeto envolve a implementação de **regras de negócio**, controle de disponibilidade, registro de empréstimos e devoluções, além da identificação de empréstimos atrasados.
 
----
+A aplicação utiliza uma **arquitetura em camadas**, com separação de responsabilidades entre Controller, Service e Repository, além de **DTOs, Mappers, Spring Data JPA e H2 Database**.
+
+Também estou aplicando conceitos de **programação orientada a objetos, encapsulamento, injeção de dependência e validação de dados**.
 
 ### 🏗️ Arquitetura
 
 ```text
-                 HTTP
-                  │
-                  ▼
-             Controller
-                  │
-                  ▼
-               Service
-                  │
-                  ▼
-             Repository
-                  │
-                  ▼
-                Banco
+              HTTP
+               │
+               ▼
+           Controller
+               │
+               ▼
+             Service
+               │
+               ▼
+           Repository
+               │
+               ▼
+          H2 Database
 ```
 
-🔗 [Ver projeto](https://github.com/pamelaprpn/api-pessoas)
+As próximas etapas incluem a conclusão dos fluxos de empréstimos, testes unitários com **JUnit 5**.
+
+🔗 [Ver projeto](https://github.com/pamelaprpn/api-emprestimo-equipamentos)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div>
